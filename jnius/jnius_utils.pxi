@@ -1,3 +1,5 @@
+# === CUSTOM VERSION BY POLARBEAR707 ===
+
 cdef str_for_c(s):
     return s.encode('utf-8')
 
